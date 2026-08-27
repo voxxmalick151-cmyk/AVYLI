@@ -1,0 +1,6 @@
+{
+  "name": "KING Yampi Manager",
+  "description": "Painel administrativo inteligente para gestão, automação de catálogo, categorias, SKUs, importação em massa e otimização por IA integrado à API oficial da Yampi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
